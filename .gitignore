@@ -1,0 +1,10 @@
+.env
+.python-version
+.ruff_cache
+.venv
+
+secrets.json
+
+__pycache__
+
+.DS_Store
