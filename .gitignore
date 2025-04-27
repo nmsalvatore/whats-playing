@@ -1,10 +1,13 @@
+# Environments
 .env
-.python-version
-.ruff_cache
 .venv
 
+# MacOS
+.DS_Store
+
+# Secret variables
 secrets.json
 
+# Cache money
 __pycache__
-
-.DS_Store
+.ruff_cache
